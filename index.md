@@ -4,6 +4,25 @@
 
 该怎么写多篇文章
 
+# 测试标题 1
+？？？
+
+Syntax highlighted code block
+
+# 标题 1
+## 标题 2
+### 标题 3
+
+- 点1
+- 点2
+
+1. 1.
+2. 2.
+
+**Bold** and _Italic_ and `Code` text
+
+[GitHub](https://github.com) and ![Image](src)
+
 You can use the [editor on GitHub](https://github.com/lq-259/lq-259.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
