@@ -21,3 +21,5 @@
 
 ## 模块
  [谷歌休眠模块](https://github.com/gloeyisk/UniversalGMSDoze/releases)
+
+ asus长截图[安卓10](https://sourceforge.net/projects/experiments3/files/ASUS_Screenshot-Q-v3%5BMagisk%5D.zip/download)    [安卓11](https://sourceforge.net/projects/experiments3/files/ASUS_Screenshot-R-v3%5BMagisk%5D.zip/download)
