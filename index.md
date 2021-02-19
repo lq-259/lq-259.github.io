@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 第一次玩
 
 You can use the [editor on GitHub](https://github.com/lq-259/lq-259.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
