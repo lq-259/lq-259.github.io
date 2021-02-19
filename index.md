@@ -9,7 +9,9 @@
 
  [cuzPixel 10](https://sourceforge.net/projects/cuzpixel/files/davinci/Full_Packages/PixelExperience_Plus_davinci-10.0-20201026-0136-UNOFFICIAL.zip/download)(非官方pe 10plus,流畅稳定，屏幕可稳超80，建议备份)
 
-# fw底包(刷安卓10就用10的最新底包刷安卓11就用11的最新底包，以此类推)
+# fw底包
+ (刷安卓10就用10的最新底包刷安卓11就用11的最新底包，以此类推)
+
  [下载](https://xiaomifirmwareupdater.com/firmware/davinci/)
 
 
